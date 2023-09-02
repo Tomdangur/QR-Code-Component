@@ -1,0 +1,32 @@
+.container{
+  width: 280px;
+  border-style: solid;
+  border-color: rgb(240, 237, 237);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 15px;
+}
+
+.qr-code{
+  width: 280px;
+  height: 280px;
+  border-radius: 12px;
+}
+.first-para{
+  font-family: sans-serif;
+  width: 250px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-left: 5px;
+}
+.secound-para{
+  font-family: sans-serif;
+  width: 250px;
+  font-size: 15px;
+  text-align: center;
+  color: rgb(104, 97, 97);
+  margin-left: 4px;
+}
